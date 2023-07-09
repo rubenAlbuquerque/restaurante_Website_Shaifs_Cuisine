@@ -5,4 +5,4 @@ Website design for a restaurant using html, css and js.
 
 📚 [See DEMO]()
 
-![Alt text](../images/home.png)
+![Alt text](https://github.com/rubenAlbuquerque/restaurante_Website_Shaifs_Cuisine/blob/main/images/home.PNG)
